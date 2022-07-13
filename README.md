@@ -9,8 +9,8 @@ Robertishimwe/Robertishimwe is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robertishimwe&show_icons=true&theme=radical)
- -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robertishimwe&show_icons=true&theme=radical)
+ --> -->
 
 <h1 align="center">Hi 👋, I'm Robert ishimwe</h1>
 <h3 align="center">A passionate Software developer from India</h3>
