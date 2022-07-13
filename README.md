@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Robertishimwe
+<!-- - 👋 Hi, I’m @Robertishimwe
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robertishimwe&show_icons=true&theme=radical)
-
+ -->
 
 <h1 align="center">Hi 👋, I'm Robert ishimwe</h1>
 <h3 align="center">A passionate Software developer from India</h3>
