@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **robert@ishimwe.rw**
 
-- 📄 Know about my experiences [http://ishimwe.ml/docs/cv.pdf](http://ishimwe.ml/docs/cv.pdf)
+- 📄 Know about my experiences [http://ishimwe.rw/docs/cv.pdf](http://ishimwe.ml/docs/cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
