@@ -23,9 +23,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [ishimwe.ml](ishimwe.ml)
+- 👨‍💻 All of my projects are available at [ishimwe.rw](ishimwe.rw)
 
-- 📫 How to reach me **robertishimwe0@gmail.com**
+- 📫 How to reach me **robert@ishimwe.rw**
 
 - 📄 Know about my experiences [http://ishimwe.ml/docs/cv.pdf](http://ishimwe.ml/docs/cv.pdf)
 
